@@ -7,13 +7,13 @@ import com.hrms.bean.Department;
 
 public interface DepartmentDao {
 	
-	public abstract String addDepartment(Department department) throws DepartmentException;
+	public abstract String addDepartment(Department department);
 	
 	public abstract String updateDepartmentName(String original , String after );
 	
 	public abstract String updateDepartmentLocation(String deptName , String location) ;
 	
-	public abstract List<Department> viewDepartment() throws DepartmentException ;
+	public abstract List<Department> viewDepartment();
 	
 	
 

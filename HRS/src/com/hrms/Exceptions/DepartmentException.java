@@ -1,10 +1,8 @@
 package com.hrms.Exceptions;
 
-public class DepartmentException extends Exception {
+public class DepartmentException extends RuntimeException {
 
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	
 	public DepartmentException() {
