@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="-grieving-bucket-5510/HRS/src"/>
+	<classpathentry kind="output" path="-grieving-bucket-5510/HRS/bin"/>
+</classpath>
