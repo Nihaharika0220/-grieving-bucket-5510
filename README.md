@@ -1,6 +1,54 @@
-# -grieving-bucket-5510
-Human resource management (HRM) is the practice of recruiting, hiring, deploying and managing an organization's employees. HRM is often referred to simply as human resources (HR). A company or organization's HR department is usually responsible for creating, putting into effect and overseeing policies governing workers and the relationship of the organization with its employees. The term human resources was first used in the early 1900s, and then more widely in the 1960s, to describe the people who work for the organization, in aggregate.
+# Grieving-bucket-5510
 
-HRM is employee management with an emphasis on those employees as assets of the business. In this context, employees are sometimes referred to as human capital. As with other business assets, the goal is to make effective use of employees, reducing risk and maximizing return on investment 
-video link below.
-https://drive.google.com/file/d/157s8PtXE9Rz_TCXdtCxb-xr8oRnQh1rz/view?usp=sharing
+
+# Human Resource Management
+>  Human resource management (HRM) is the practice of recruiting, hiring, deploying and managing an organization's employees. HRM is often referred to simply as human resources (HR)
+
+>Build Human resource management system application during the construct week at [Masai School](https://masaischool.com/). Completed the project within five days.
+
+> Individual projects [Click here](https://drive.google.com/file/d/157s8PtXE9Rz_TCXdtCxb-xr8oRnQh1rz/view?usp=sharing)
+
+# 👉 [Click here](https://drive.google.com/file/d/157s8PtXE9Rz_TCXdtCxb-xr8oRnQh1rz/view?usp=sharing) to go through detail explanation of this application 
+
+# Features
+
+- Add department
+- Add employee
+- Apply leave
+- Change Password
+- Get List Of Leaave
+- Ragister Employee
+- Reject Leave
+- Transfer Department
+- Update Department
+- View All Employee
+- View Department
+- Accept Leave
+
+# Technology used 
+
+- Java
+- MySQL
+- JDBC
+- spring tool suite eclipse
+- Git & GitHub
+
+# Lessons Learned
+
+- Gain excessive knowledge on application of Java, JDBC and MySQL.
+- Enjoyed the process of learning and creating the application.
+
+# Overview of my work
+
+# Feedback
+> Valuable feedback will be appreciated.
+> You can reach out to me via below medium.
+
+- [Email](niharikaaa0220@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/niharika0220/)
+
+
+# Contributor
+#### Niharika
+>[GitHub](https://github.com/Nihaharika0220)
+
