@@ -12,8 +12,8 @@ public class AddDepartment {
 		Department department = new Department(1, "Human Resource", "Amravati") ;
 		
 		try {
-			String result = addDepartment.addDepartment(department) ;
-			System.out.println(result);
+			String result1 = addDepartment.addDepartment(department) ;
+			System.out.println(result1);
 		} catch (DepartmentException e) {
 			e.printStackTrace();
 		}
